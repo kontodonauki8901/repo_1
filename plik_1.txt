@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 napis z feature_3
 
 napis z feature4
 
+=======
+napis z feature4
+>>>>>>> feature_4
