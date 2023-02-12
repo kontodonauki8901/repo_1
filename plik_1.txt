@@ -1,11 +1,1 @@
-
-napis z feature_3
-
-napis z feature4
-
-=======
-napis z feature4
-
-=======
-napis 5
-
+napis6
